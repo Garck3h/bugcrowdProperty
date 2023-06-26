@@ -1,0 +1,2 @@
+# bugcrowdProperty
+通过该工具可以实现爬取bugcrowd中有赏金的测试项目，以及项目中的资产范围。
